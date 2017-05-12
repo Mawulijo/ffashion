@@ -1,0 +1,42 @@
+body{
+    font-family: candara;
+    font-size: 16px;
+}
+
+.navbar{
+    background: white;
+    border: none;
+    border-bottom: 2px solid grey;
+    border-radius: 0;
+}//navbar
+
+.navbar.menu{
+    margin-top: 40px;
+} 
+.social li a{
+    font-size: 50px;
+    margin-right: 50px;
+    padding: 0;
+    color: powderblue;
+}
+ul.fa:hover{
+   background: bisque;
+}
+
+section.col-md-4{
+    margin-bottom: 20px;
+}
+footer{
+     margin-top: 20px;
+    padding-top: 10px;
+}
+
+footer a{
+    display: inline-block;
+    text-decoration: none;
+   
+}
+.onsale{
+    margin-bottom: 20px;
+    padding: 20px;
+}
